@@ -4,6 +4,6 @@ Shell Scripting Topics
 
 
 '''text
-Printing
-Comments
+1.Printing
+2.Comments
 '''
